@@ -1,6 +1,6 @@
 # Traitement d'image — Détection de contours par filtre de Sobel
 
-Projet académique réalisé à l'INSA Rouen Normandie dans le cadre de la 3e année d'Informatique et Technologies de l'Information (ITI).
+Projet académique réalisé à l'INSA Rouen Normandie pendant mon cycle préparatoire (STPI).
 
 ## Description
 
